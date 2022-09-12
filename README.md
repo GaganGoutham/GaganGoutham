@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gagan Goutham</h1>
 
 
-<p align="left">📚 A sophomore B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
-<p align="left">💻 Android App Development, Automation </p>
-<p align="left">📈 Data Science, Machine Learning</p>
+<p align="left">📚 A Junior B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
+<p align="left">📈 Data Science, Machine Learning </p>
+<p align="left">💻 Still Figuring it out</p>
 <p align="left">👨‍💻 Updating and Upgrading myself</p>
 
 
