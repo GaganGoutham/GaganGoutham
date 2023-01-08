@@ -7,7 +7,7 @@
 <p align="left">👨‍💻 Updating and Upgrading myself</p>
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/gagan-goutham-242a641b1/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
